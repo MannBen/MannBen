@@ -1,10 +1,12 @@
 # Hi, I'm Ben
 
-I'm currenty working on a Master of Data Science student at UCSD with a CS degree and a background in IT automation & data analytics.
+I'm a Master of Data Science student at UCSD with a CS degree and a background in IT automation and data analytics.
 
 I work mostly in Python, building API integrations, data pipelines, and analysis projects. Right now I'm focused on SQL, Power BI, and statistics.
 
-**Currently working on:** an options pricing project in Python breaking down decay & other important related metrics
+**Currently working on:** an options pricing project in Python that breaks down time decay and other key metrics
+
+**Interests:** I'm an avid powerlifter and hiker. I enjoy all racket sports and like watching movies with friends.
 
 **Looking for:** full-time Data Analyst, Data Scientist, or Data Engineer roles
 
